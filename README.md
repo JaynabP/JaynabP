@@ -15,7 +15,7 @@
 -->
 
 ### About
-I'm a CS undergrad at NSUT, majoring in Mathematics and Computing, with a strong interest in Machine Learning and data science[1][4]. I love building projects with JavaScript, Node.js, MongoDB, Express, and SQL, incorporating latest APIs to build interesting and resourceful apps.
+I'm a CS undergrad at NSUT, majoring in Mathematics and Computing, with a strong interest in Machine Learning and data science. I love building projects with JavaScript, Node.js, MongoDB, Express, and SQL, incorporating latest APIs to build interesting and resourceful apps.
 
 I also use my maths background to implement logic and understand various data structures algorithms and solving CP problems on LeetCode.
 
